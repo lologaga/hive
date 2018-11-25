@@ -78,3 +78,5 @@
 #     arrival_date = models.DateField()
 #     departure_date = models.DateField()
 #     vehicle = models.CharField(Vehicle, max_length=1000)
+
+# blablabli
